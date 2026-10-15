@@ -34,7 +34,7 @@ leave and what factors drive churn.
 8. Total Customers by Contract & Internet Service (treemap)
 
 ## Key Insights
-- Overall churn rate: **XX%**
+- Overall churn rate: **26.5%**
 - **Contract type** is the strongest driver: month-to-month customers churn far more than 1- or 2-year contracts.
 - **Fiber optic** customers churn more than DSL customers.
 - **Electronic check** payers have the highest churn rate.
@@ -43,7 +43,7 @@ leave and what factors drive churn.
 - Customers **without add-on services** (e.g., Online Security, Tech Support) are more likely to leave.
 
 ## Calculated Fields
-- **Churn Rate:** % of customers where Churn = "Yes"
+- **Churn Rate:*26.5* % of customers where Churn = "Yes"
 
 ## Tools
 - Tableau Public
