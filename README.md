@@ -5,7 +5,7 @@ Interactive Tableau Public dashboard analyzing customer churn in a telecom compa
 using the Telco-Customer-Churn dataset. The goal is to identify which customers
 leave and what factors drive churn.
 
-🔗 **Live dashboard:** [View on Tableau Public](PASTE-YOUR-TABLEAU-PUBLIC-LINK-HERE)
+🔗 **Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/...)
 
 ## Files in this Repository
 - `Tableau_Project_1_2026.twbx` — Tableau packaged workbook
